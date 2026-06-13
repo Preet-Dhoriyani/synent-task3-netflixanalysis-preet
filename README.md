@@ -136,22 +136,18 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 ```
 synent-task3-netflixeda-preet
 │
-├── notebook
-│   └── netflix_eda.ipynb
+|--synant_3.ipynb
 │
-├── dataset
-│   └── netflix_titles.csv
+|-- netflix_titles.csv
 │
-├── plots
-│   ├── missing_values_heatmap.png
-│   ├── movies_vs_tvshows.png
-│   ├── movies_vs_tvshows_pie.png
-│   ├── top_countries.png
-│   ├── ratings_analysis.png
-│   ├── top_genres.png
-│   ├── top_directors.png
-│   ├── release_year_trend.png
-│   └── correlation_heatmap.png
+|--Missing value heatmap.png
+│--Top 10 countries.png
+|--movies_vs_tvshows.png
+│--movies_vs_tvshows_pie.png
+|--netflix content rating.png
+│--release_year_trend.png
+│--top 10 genres.png
+│--top_directors.png
 │
 └── README.md
 ```
